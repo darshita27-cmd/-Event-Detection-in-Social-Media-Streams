@@ -1,0 +1,16 @@
+## Requirements
+
+- google-api-python-client
+
+- pandas
+
+- scikit-learn
+
+- nltk
+
+- wordcloud
+
+- matplotlib
+
+- seaborn
+
